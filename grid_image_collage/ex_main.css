@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+  height: 300px;
+}
+.row {
+  display: flex;
+  gap: 5px;
+  margin: 5px 0;
+  height: 500px;
+}
+.row div {
+  flex: 1;
+}
+
+.collage img {
+  height: 50%;
+}
